@@ -2,7 +2,7 @@
 
 A web-based Lead Management System designed to help organizations manage customer leads efficiently. The application allows users to create, update, track, and manage leads through a user-friendly interface.
 
-=======================
+
 **Features**
 Add new leads
 View all leads
@@ -12,7 +12,6 @@ Search and filter leads
 Lead status tracking
 User-friendly interface
 
-=======================
 **Tech Stack**
 **Frontend**
 
@@ -21,18 +20,18 @@ HTML
 CSS
 JavaScript
 
-=======================
+==
 **Backend**
 Java
 Spring Boot
 REST APIs
 
-=======================
+==
 **Database**
 
 MySQL
 
-=======================
+==
 **Project Structure**
 
 lead-management-system
@@ -40,23 +39,23 @@ lead-management-system
 ├── backend
 └── README.md
 
-=======================
+==
 **Getting Started**
 
 Clone Repository
 git clone https://github.com/patilbhavesh-commits/lead-management-system.git
 
-=======================
+==
 **Backend Setup**
 cd backend
 mvn spring-boot:run
 
-=======================
+==
 **Frontend Setup**
 cd frontend
 npm install
 npm start
 
-=======================
+==
 **Author**
 Bhavesh Patil
